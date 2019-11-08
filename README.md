@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/smartboxlabs/project-template.svg?branch=master)](https://travis-ci.com/smartboxlabs/project-template)  [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/smartboxlabs/project-template/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/smartboxlabs/project-template/?branch=master) [![Coverage Status](https://coveralls.io/repos/github/ssmartboxlabs/project-template/badge.svg?branch=master)](https://coveralls.io/github/smartboxlabs/project-template?branch=master)
+[![Build Status](https://travis-ci.com/smartboxlabs/project-template.svg?branch=master)](https://travis-ci.com/smartboxlabs/project-template)  [![Coverage Status](https://coveralls.io/repos/github/ssmartboxlabs/project-template/badge.svg?branch=master)](https://coveralls.io/github/smartboxlabs/project-template?branch=master)
 
 
 [![Contributors][contributors-shield]][contributors-url]
@@ -6,7 +6,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
 
 # Project Title
 
