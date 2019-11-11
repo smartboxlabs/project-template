@@ -1,0 +1,19 @@
+theme: jekyll-theme-minimal
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+baseurl: '/project-template'
+
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM #Github Flavored Markdown
+  hard_wrap: false
+  syntax_highlighter: rouge
+
+host: 0.0.0.0
+repository: smartboxlabs/project-template
