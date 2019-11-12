@@ -6,7 +6,7 @@ defaults:
       path: ""
     values:
       layout: "default"
-baseurl: '/project-template'
+baseurl: '/'
 
 markdown: kramdown
 highlighter: rouge
